@@ -1,2 +1,2 @@
 # maratones-docs
-Administración de la Plataforma SIMA
+Administración de la Plataforma SIMA 
